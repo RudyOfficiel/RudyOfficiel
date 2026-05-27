@@ -65,10 +65,6 @@ mon métier et contribuer à des projets qui comptent.*
 
 <br/>
 
----
-
-<br/>
-
 <br/>
 
 ---
