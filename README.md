@@ -70,13 +70,6 @@ mon métier et contribuer à des projets qui comptent.*
 
 <br/>
 
-### 📊 Stats GitHub
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RudyOfficiel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=6c5ce7&icon_color=00cec9&text_color=a0a0b8&border_radius=12&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RudyOfficiel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=6c5ce7&text_color=a0a0b8&border_radius=12" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RudyOfficiel&theme=tokyonight&hide_border=true&background=0a0a0f&stroke=6c5ce7&ring=6c5ce7&fire=00cec9&currStreakNum=00cec9&sideNums=00cec9&currStreakLabel=6c5ce7&sideLabels=6c5ce7&dates=a0a0b8&border_radius=12" />
-
 <br/>
 
 ---
