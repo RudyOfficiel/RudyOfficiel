@@ -9,7 +9,6 @@
 ![Discord](https://img.shields.io/badge/💬_Discord-rudy__le__dev-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=111118)
 
 <br/>
-<br/>
 
 ## 👋 Salut, moi c'est Rudy !
 
